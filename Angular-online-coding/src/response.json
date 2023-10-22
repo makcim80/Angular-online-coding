@@ -1,0 +1,79 @@
+{
+  "language": "en-US",
+  "pageInfo": {
+    "totalResults": 10,
+    "resultsPerPage": 10
+  },
+  "items": [
+    {
+      "id": 0,
+      "name": "Boris",
+      "gender": "male",
+      "age": 14,
+      "img": "assets/0.png"
+    },
+    {
+      "id": 1,
+      "name": "Gena",
+      "gender": "male",
+      "age": 9,
+      "img": "assets/1.png"
+    },
+    {
+      "id": 2,
+      "name": "Ala",
+      "gender": "female",
+      "age": 18,
+      "img": "assets/2.png"
+    },
+    {
+      "id": 3,
+      "name": "Ben",
+      "gender": "male",
+      "age": 22,
+      "img": "assets/3.png"
+    },
+    {
+      "id": 4,
+      "name": "Dory",
+      "gender": "female",
+      "age": 12,
+      "img": "assets/4.png"
+    },
+    {
+      "id": 5,
+      "name": "Rex",
+      "gender": "male",
+      "age": 17,
+      "img": "assets/5.png"
+    },
+    {
+      "id": 6,
+      "name": "Zorro",
+      "gender": "male",
+      "age": 5,
+      "img": "assets/6.png"
+    },
+    {
+      "id": 7,
+      "name": "Vice",
+      "gender": "female",
+      "age": 11,
+      "img": "assets/7.png"
+    },
+    {
+      "id": 8,
+      "name": "Kate",
+      "gender": "female",
+      "age": 24,
+      "img": "assets/8.png"
+    },
+    {
+      "id": 9,
+      "name": "Alf",
+      "gender": "male",
+      "age": 10,
+      "img": "assets/9.png"
+    }
+  ]
+}
